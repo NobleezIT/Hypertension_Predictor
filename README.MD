@@ -76,7 +76,6 @@ Performance was evaluated using:
 
 **Abdulazeez Ahmad**
 Email: [azeezahmad518@gmail.com](mailto:azeezahmad518@gmail.com)
-GitHub: [github.com/your-username](https://github.com/your-username)
 
 ---
 
